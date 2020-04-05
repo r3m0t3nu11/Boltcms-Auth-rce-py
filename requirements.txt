@@ -1,0 +1,8 @@
+requests
+sys
+warnings
+re
+os
+bs4
+colorama
+colored
